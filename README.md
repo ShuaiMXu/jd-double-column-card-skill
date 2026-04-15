@@ -95,6 +95,10 @@ jd-double-column-card/
 
 **如果 agent 只能读一个文件**：读 `prompts/page-level-review.md`（自包含执行契约）。
 
+## Agent 集成（System Prompt + 调用模板）
+
+将此 Skill 集成到其他 AI agent 时，参考 [`agent-pe-guide.md`](./agent-pe-guide.md) —— 包含完整的 system prompt、user prompt 模板、End-to-End 示例、PE 优化建议与自检清单。
+
 ---
 
 ## 使用边界
